@@ -20,5 +20,8 @@ public class setMismatch {
     public static void main(String[] args) {
         int [] nums = {11,12,13,13,15,16,17,17};
         System.out.println(Arrays.toString(findErrorNums(nums)));
+        int [] num2 = {1,2,2,4};
+        System.out.println(Arrays.toString(findErrorNums(num2)));
+    
     }
 }

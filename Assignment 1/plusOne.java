@@ -25,7 +25,11 @@ public class plusOne {
     }
 
     public static void main(String[] args) {
-        int [] nums = {4,41,32,4,54,2,5};
-        System.out.println(Arrays.toString(plusOne(nums)));
+        int [] nums1 = {1,2,3};
+        System.out.println(Arrays.toString(plusOne(nums1)));
+    
+        
+        int [] nums2 = {4,41,32,4,54,2,5};
+        System.out.println(Arrays.toString(plusOne(nums2)));
     }
 }
