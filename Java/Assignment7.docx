@@ -1,0 +1,51 @@
+# Assignment Questions 7
+
+<aside>
+💡 **Q1.What is the use of JDBC in java?**
+
+</aside>
+
+<aside>
+💡 **Q2.What are the steps involved in JDBC?**
+
+</aside>
+
+<aside>
+💡 **Q3.What are the types of statement in JDBC in java?**
+
+</aside>
+
+<aside>
+💡 **Q4.What is Servlet in Java?**
+
+</aside>
+
+<aside>
+💡 **Q5.Explain the life Cycle of servlet?**
+
+</aside>
+
+<aside>
+💡 **Q6.Explain the difference between the RequestDispatcher.forward() and HttpServletResponse.sendRedirect() methods?**
+
+</aside>
+
+<aside>
+💡 **Q7.What is the purpose of the doGet() and doPost() methods in a servlet?**
+
+</aside>
+
+<aside>
+💡 **Q8.Explain the JSP Model-View-Controller (MVC) architecture.**
+
+</aside>
+
+<aside>
+💡 ****Q9.What are some of the advantages of Servlets?****
+
+</aside>
+
+<aside>
+💡 **Q10.What are the limitations of JSP?**
+
+</aside>
